@@ -1,0 +1,26 @@
+.parrafoResaltado {
+    font-size: 24px;
+    padding: 40px;
+border: double 6px blueviolet;
+border-radius: 10px;
+background-color: chartreuse;
+margin: 20px; 
+}
+
+#parrafoEspecial {
+background-color: cornflowerblue;
+border-radius: 80px; 
+padding: 50px;
+}
+#parrafoEspecial:hover {
+    background-color: blueviolet;
+    border-radius: 80px; 
+    padding: 50px;
+    }
+    p:hover{
+        text-decoration: underline;
+        transform: scale(105%);
+    }
+    p{
+        borer: solid 1px red;
+    }
